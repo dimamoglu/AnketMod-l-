@@ -1,0 +1,14 @@
+{
+    "name": "merve/modules",
+    "description": "anket modulu",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Merve Kantarci",
+            "email": "merve@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
