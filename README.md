@@ -2,6 +2,4 @@
 
 
 
-        ANKET MODÜLÜ
         
-        composer require dimamoglu/AnketMod-l-
